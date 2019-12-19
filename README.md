@@ -1,4 +1,5 @@
 # vue-demo-2
+Only be used on windows at home.
 
 ## Project setup
 ```
